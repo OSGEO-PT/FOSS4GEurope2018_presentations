@@ -1,7 +1,3 @@
----
-title: FOSS4G Europe Guimarães Presentations
----
-
 # FOSS4G Europe2018 Guimarães Presentations
 
 ## Welcome to GitHub Pages
