@@ -1,5 +1,5 @@
 ---
-title: FOSS4G Europe2018 Guimarães Presentations
+title: FOSS4G Europe Guimarães Presentations
 ---
 
 # FOSS4G Europe2018 Guimarães Presentations
