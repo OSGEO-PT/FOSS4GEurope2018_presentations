@@ -1,3 +1,6 @@
+# FOSS4G Europe2018 Guimarães Presentations
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/OSGEO-PT/FOSS4GEurope2018_presentations/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
