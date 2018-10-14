@@ -1,4 +1,7 @@
-# FOSS4G Europe2018 Guimarães Presentations
+# FOSS4G Europe 2018 Presentations
+
+Welcomee to the main repository of FOSS4G Europe 2018 presentation files.
+
 
 ## Welcome to GitHub Pages
 
