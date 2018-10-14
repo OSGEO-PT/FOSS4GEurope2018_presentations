@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Presentations at FOSS4G Europe 2018
 show_downloads: false
+
+github:
+  is_project_page: false
+  
